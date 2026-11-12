@@ -24,10 +24,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_NAME/dsh-ptt.git"
+    "url": "git+https://github.com/leslie941012/dsh-ptt.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_NAME/dsh-ptt/issues"
+    "url": "https://github.com/leslie941012/dsh-ptt/issues"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_NAME/dsh-ptt#readme"
+  "homepage": "https://github.com/leslie941012/dsh-ptt#readme"
 }

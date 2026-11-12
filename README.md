@@ -31,7 +31,7 @@ It does **not** reimplement recording, transcription or text insertion. Those st
 ### From a local checkout
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_NAME/dsh-ptt.git
+git clone https://github.com/leslie941012/dsh-ptt.git
 ```
 
 Add it to your profile as a `file:` dependency and mount it in the patch layer.

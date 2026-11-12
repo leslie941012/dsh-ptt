@@ -31,7 +31,7 @@ DeepSeek Harness 自带的语音输入插件（`@deepseek-ai/dsh-experimental-cl
 ### 从本地克隆安装
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_NAME/dsh-ptt.git
+git clone https://github.com/leslie941012/dsh-ptt.git
 ```
 
 把它作为 `file:` 依赖加入你的 profile，并在 patch 层挂载。
