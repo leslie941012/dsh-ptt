@@ -2,6 +2,8 @@
 
 **Push-to-talk for DeepSeek Harness.** Hold <kbd>Alt</kbd> to record with the built-in voice input plugin, release to transcribe.
 
+<img src="docs/demo.png" alt="dsh-ptt: hold Alt to record, release to transcribe" width="900">
+
 [中文文档](README.zh.md)
 
 ---

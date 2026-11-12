@@ -2,6 +2,8 @@
 
 **DeepSeek Harness 的按住说话插件。** 按住 <kbd>Alt</kbd> 录音，松开自动转写——复用官方语音输入插件，只补上缺失的键盘交互。
 
+<img src="docs/demo.png" alt="dsh-ptt：按住 Alt 录音，松开转写" width="900">
+
 [English](README.md)
 
 ---
