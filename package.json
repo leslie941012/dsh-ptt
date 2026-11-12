@@ -1,7 +1,7 @@
 {
   "name": "@yg/dsh-ptt",
   "description": "Push-to-talk for DeepSeek Harness: hold Alt to record with the built-in voice input plugin, release to transcribe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "dsh",
     "dsh-plugin",
