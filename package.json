@@ -1,0 +1,33 @@
+{
+  "name": "@yg/dsh-ptt",
+  "description": "Push-to-talk for DeepSeek Harness: hold Alt to record with the built-in voice input plugin, release to transcribe",
+  "version": "1.0.0",
+  "keywords": ["dsh", "dsh-plugin", "push-to-talk", "speech-to-text", "voice-input"],
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./client": {
+      "default": "./lib/client.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "client": {
+      "inject": [],
+      "platform": "web"
+    }
+  },
+  "files": ["lib/index.js", "lib/client.js", "README.md", "LICENSE"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_GITHUB_NAME/dsh-ptt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_NAME/dsh-ptt/issues"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_NAME/dsh-ptt#readme"
+}
